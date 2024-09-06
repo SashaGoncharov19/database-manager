@@ -12,6 +12,7 @@ Thumbs.db
 
 .svelte-kit
 pg
+!src/lib/pg
 .idea
 
 # Env
